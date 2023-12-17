@@ -24,3 +24,4 @@ function onFormSubmit(event) {
     console.log(formData);
 
     form.reset();
+}
